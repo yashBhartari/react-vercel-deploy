@@ -12,6 +12,9 @@ const App = () => {
   return (
     <>
       <NavBar/>
+      <br/>
+      <br/>
+      <br/>
       <About/>
       <Skills/>
       <Projects/>
