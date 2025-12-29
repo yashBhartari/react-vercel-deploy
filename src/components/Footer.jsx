@@ -20,7 +20,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/yashBhartari/react-vercel-deploy.git"
+            href="https://github.com/yashBhartari"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
