@@ -1,5 +1,9 @@
 import { motion } from "framer-motion";
 import ProjectCard from "../components/ProjectCard";
+import attendanceImg from "../assets/images/attendance.png";
+import libraryImg from "../assets/images/library.png";
+import resumeImg from "../assets/images/resume.png";
+import weatherImg from "../assets/images/weather.png";
 
 const projects = [
   {
@@ -7,7 +11,7 @@ const projects = [
     description:
       "A full-stack attendance management system with authentication and admin dashboard.",
     stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-    image: "./src/assets/images/attendance.png",
+    image: attendanceImg,
     github: "https://github.com/yourusername/attendance-app",
     demo: "#",
   },
@@ -16,7 +20,7 @@ const projects = [
     description:
       "Library system for managing books, users, and issue records.",
     stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
-    image: "./src/assets/images/library.png",
+    image: libraryImg,
     github: "https://github.com/yourusername/library-management",
     demo: "#",
   },
@@ -25,7 +29,7 @@ const projects = [
     description:
       "AI-powered resume analyzer based on ATS rules.",
     stack: ["React", "Node.js", "MongoDB"],
-    image: "./src/assets/images/resume.png",
+    image: resumeImg,
     github: "https://github.com/yourusername/resume-analyzer",
     demo: "#",
   },
@@ -34,7 +38,7 @@ const projects = [
     description:
       "Real-time weather app with modern UI.",
     stack: ["React", "API", "Tailwind"],
-    image: "./src/assets/images/weather.png",
+    image: weatherImg,
     github: "https://github.com/yourusername/weather-app",
     demo: "#",
   },

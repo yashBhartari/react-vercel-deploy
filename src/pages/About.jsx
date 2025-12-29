@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import personImg from "../assets/images/person.jpg";
 
 const floatAnimation = {
   animate: {
@@ -111,7 +112,7 @@ const About = () => {
           >
             <div className="absolute inset-0 rounded-full bg-purple-500/30 blur-2xl" />
             <img
-              src="./src/assets/images/person.jpg"
+              src={personImg}
               alt="Yash Bhartari"
               className="
                 relative w-60 h-60 md:w-80 md:h-80 rounded-full
