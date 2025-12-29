@@ -65,7 +65,7 @@ const Contact = () => {
             </p>
 
             <div className="flex gap-6">
-              <a href="https://github.com/yourusername" target="_blank">
+              <a href="https://github.com/yashBhartari/react-vercel-deploy.git" target="_blank">
                 <FaGithub className="text-2xl hover:text-purple-500" />
               </a>
               <a href="https://linkedin.com/in/yourusername" target="_blank">
