@@ -31,7 +31,7 @@ const projects = [
     stack: ["React", "Node.js", "MongoDB"],
     image: resumeImg,
     github: "https://github.com/yourusername/resume-analyzer",
-    demo: "#",
+    demo: "weather-application-reactjs-pi.vercel.app",
   },
   {
     title: "Weather App",
