@@ -64,7 +64,7 @@ const ProjectCard = ({ project }) => {
             className="inline-flex items-center gap-2 text-sm 
             text-purple-400 hover:text-purple-300 transition"
           >
-            <FaExternalLinkAlt /> react-vercel-deploy-gqocw41kl-yash-bhartaris-projects.vercel.app
+            <FaExternalLinkAlt /> Live Demo
           </a>
         </div>
       </div>
