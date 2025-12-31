@@ -31,7 +31,7 @@ const projects = [
     stack: ["React", "Node.js", "MongoDB"],
     image: resumeImg,
     github: "https://github.com/yourusername/resume-analyzer",
-    demo: "weather-application-reactjs-pi.vercel.app",
+    demo: "#",
   },
   {
     title: "Weather App",
@@ -40,7 +40,7 @@ const projects = [
     stack: ["React", "API", "Tailwind"],
     image: weatherImg,
     github: "https://github.com/yourusername/weather-app",
-    demo: "#",
+    demo: "weather-application-reactjs-pi.vercel.app",
   },
 ];
 
