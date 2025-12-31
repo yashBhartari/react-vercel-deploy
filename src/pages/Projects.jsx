@@ -39,8 +39,8 @@ const projects = [
       "Real-time weather app with modern UI.",
     stack: ["React", "API", "Tailwind"],
     image: weatherImg,
-    github: "https://github.com/yourusername/weather-app",
-    demo: "weather-application-reactjs-pi.vercel.app",
+    github: "https://github.com/yashBhartari/weather-deploy-vercel.git",
+    demo: "https://weather-application-reactjs-pi.vercel.app/",
   },
 ];
 
