@@ -30,8 +30,8 @@ const projects = [
       "AI-powered resume analyzer based on ATS rules.",
     stack: ["React", "Node.js", "MongoDB"],
     image: resumeImg,
-    github: "https://github.com/yourusername/resume-analyzer",
-    demo: "#",
+    github: "https://github.com/yashBhartari/ElevateAi-resume-analyzer.git",
+    demo: "https://elevate-ai-resume-analyzer.vercel.app/",
   },
   {
     title: "Weather App",
